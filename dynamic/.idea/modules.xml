@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dynamic.iml" filepath="$PROJECT_DIR$/.idea/dynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googleprj/.idea/googleprj.iml" filepath="$PROJECT_DIR$/../googleprj/.idea/googleprj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prj/.idea/prj.iml" filepath="$PROJECT_DIR$/../prj/.idea/prj.iml" />
+    </modules>
+  </component>
+</project>
